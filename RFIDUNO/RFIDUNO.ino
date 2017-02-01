@@ -3,7 +3,6 @@
 #include <Servo.h>
 #include <Wire.h> 
 
-int led=7;
 Servo myservo; 
 int pos=0;
 /*
